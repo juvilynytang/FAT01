@@ -14,3 +14,21 @@ git add .
 
 - Create a commit
 git commit -m "Description."
+
+-initiative a repository
+git init
+
+
+
+
+- Branching
+
+- List all the branches
+git branch -a
+
+- Create a branch
+git branch [branch-name]
+
+- Switch 
+git checkout [branch-name]
+git switch [branch-name]
